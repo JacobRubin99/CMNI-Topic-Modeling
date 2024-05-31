@@ -1,0 +1,132 @@
+ID,Factor,Question Text,Scale,Applicable Population,SF
+1,Nicotine Dependence,I find myself reaching for cigarettes without thinking about it.,F,ALL/D/ND,X
+2,Nicotine Dependence,I drop everything to go out and buy cigarettes.,F,ALL/D/ND,X
+3,Nicotine Dependence,I smoke more before going into a situation where smoking is not allowed.,F,ALL/D/ND,X
+4,Nicotine Dependence,"When I haven't been able to smoke for a few hours, the craving gets intolerable.",F,ALL/D/ND,X
+5,Nicotine Dependence,"When I'm really craving a cigarette, it feels like I'm in the grip of some unknown force that I cannot control.",F,ALL/D/ND,X
+6,Nicotine Dependence,I crave cigarettes at certain times of day.,Q,ALL/D/ND,
+7,Nicotine Dependence,My urges to smoke keep getting stronger if I don't smoke.,Q,ALL/D/ND,
+8,Nicotine Dependence,"After not smoking for a while, I need to smoke in order to avoid feeling any discomfort.",F,ALL/D/ND,
+9,Nicotine Dependence,My desire to smoke seems overpowering.,Q,ALL/D/ND,
+10,Nicotine Dependence,Cravings for a cigarette make it difficult for me to quit.,Q,ALL/D/ND,
+11,Nicotine Dependence,It is hard to ignore urges to smoke.,Q,ALL/D/ND,
+12,Nicotine Dependence,"When I go without a cigarette for a few hours, I experience craving. ",Q,ALL/D/ND,
+13,Nicotine Dependence,I frequently crave cigarettes.,Q,ALL/D/ND,
+14,Nicotine Dependence,The idea of not having any cigarettes causes me stress.,Q,ALL/D/ND,
+15,Nicotine Dependence,"When I run out of cigarettes, I find it almost unbearable.",F,ALL/D/ND,
+16,Nicotine Dependence,I get a real gnawing hunger for a cigarette when l haven't smoked in a while.,F,ALL/D/ND,
+17,Nicotine Dependence,I smoke even when I am so ill that I am in bed most of the day. ,F,ALL/D/ND,
+18,Nicotine Dependence,When I go too long without a cigarette I feel impatient.,F,ALL/D/ND,
+19,Nicotine Dependence,It is hard for me to go without smoking for a whole day.,Q,ALL/D/ND,
+20,Nicotine Dependence,When I go too long without a cigarette I get strong urges that are hard to get rid of.,F,ALL/D/ND,
+21,Nicotine Dependence,Smoking is a large part of my daily life. ,Q,ALL/D/ND,
+22,Nicotine Dependence,I am tempted to smoke when I realize I haven't smoked for a while.,F,ALL/D/ND,
+23,Nicotine Dependence,I smoke when I am alone.,F,D only,
+24,Nicotine Dependence,The thought of never smoking again is overwhelming.,Q,D only,
+25,Nicotine Dependence,I am tempted to smoke when I am happy.,F,D only,
+26,Nicotine Dependence,I am tempted to smoke when I am driving.,F,D only,
+27,Nicotine Dependence,After eating I want a cigarette. ,F,D only,
+28,Nicotine Dependence,I become more addicted the more I smoke. ,Q,ND only,
+29,Nicotine Dependence,I feel like I smoke all the time.,Q,ND only,
+30,Nicotine Dependence,I would go crazy if I couldn't smoke.,Q,ND only,
+31,Nicotine Dependence,If I quit smoking I will experience intense cravings for a cigarette.,Q,ND only,
+32,Nicotine Dependence,My life is full of reminders to smoke.,Q,ND only,
+33,Coping Expectancies,I rely on smoking to deal with stress.,Q,ALL/D/ND,X
+34,Coping Expectancies,"When I'm angry, a cigarette can calm me down.",F,ALL/D/ND,X
+35,Coping Expectancies,Smoking allows me to take a break from my problems for a few minutes.,Q,ALL/D/ND,X
+36,Coping Expectancies,I am tempted to smoke when I feel depressed.,F,ALL/D/ND,X
+37,Coping Expectancies,"When I'm upset with someone, a cigarette helps me cope.",Q,ALL/D/ND,
+38,Coping Expectancies,Smoking helps me when I'm upset about something.,F,ALL/D/ND,
+39,Coping Expectancies,Smoking helps me reduce tension.,Q,ALL/D/ND,
+40,Coping Expectancies,"When I am worrying about something, a cigarette is helpful.",F,ALL/D/ND,
+41,Coping Expectancies,Smoking helps me deal with anxiety.,Q,ALL/D/ND,
+42,Coping Expectancies,Smoking calms me down.,Q,ALL/D/ND,
+43,Coping Expectancies,I am tempted to smoke when I am anxious.,F,ALL/D/ND,
+44,Coping Expectancies,When I go too long without a cigarette I lose my temper more easily.,F,D/ND,
+45,Coping Expectancies,If I quit smoking I would be more likely to feel depressed.,Q,D only,
+46,Coping Expectancies,If I quit smoking I will be less able to concentrate. ,Q,D only,
+47,Coping Expectancies,"If I'm feeling irritable, a cigarette will help me relax.",Q,D only,
+48,Coping Expectancies,Smoking keeps me from overeating.,Q,ND only,
+49,Coping Expectancies,I am tempted to smoke when I have arguments or conflicts with others.,F,ND only,
+50,Coping Expectancies,I am tempted to smoke when I am stressed. ,F,ND only,
+51,Coping Expectancies,I am tempted to smoke when I experience an emotional crisis.,F,ND only,
+52,Coping Expectancies,I am tempted to smoke when I feel nervous.,F,ND only,
+53,Coping Expectancies,When I feel stressed I want a cigarette. ,F,ND only,
+54,Emotional and Sensory Expectancies,I feel better after smoking a cigarette.,Q,ALL/D/ND,
+55,Emotional and Sensory Expectancies,Smoking stimulates me.,Q,ALL/D/ND,X
+56,Emotional and Sensory Expectancies,Smoking helps me concentrate.,Q,ALL/D/ND,X
+57,Emotional and Sensory Expectancies,When I stop what I'm doing to have a cigarette it feels like 'my time'. ,Q,ALL/D/ND,X
+58,Emotional and Sensory Expectancies,I love the feel of inhaling the smoke into my mouth.,Q,ALL/D/ND,X
+59,Emotional and Sensory Expectancies,Smoking is relaxing. ,Q,ALL/D/ND,X
+60,Emotional and Sensory Expectancies,Smoking makes me feel content.,Q,ALL/D/ND,X
+61,Emotional and Sensory Expectancies,"Even when I feel good, smoking helps me feel better.",F,ALL/D/ND,
+62,Emotional and Sensory Expectancies,Smoking is the fastest way to reward myself.,Q,ALL/D/ND,
+63,Emotional and Sensory Expectancies,Smoking makes me less depressed.,Q,ALL/D/ND,
+64,Emotional and Sensory Expectancies,I smoke because it is self-satisfying. ,Q,ALL/D/ND,
+65,Emotional and Sensory Expectancies,I like the way a cigarette makes me feel physically.,Q,ALL/D/ND,
+66,Emotional and Sensory Expectancies,I smoke because smoking feels good.,Q,ALL/D/ND,
+67,Emotional and Sensory Expectancies,"I enjoy the sensations of a long, slow exhalation of smoke.",Q,ALL/D/ND,
+68,Emotional and Sensory Expectancies,I smoke to get a sense of pleasure.,Q,ALL/D/ND,
+69,Emotional and Sensory Expectancies,I enjoy the steps I take to light up a cigarette.,Q,D only,
+70,Emotional and Sensory Expectancies,I enjoy the smell of a cigarette when I pull it out of the pack.,Q,ND only,
+71,Emotional and Sensory Expectancies,"When I'm alone, a cigarette can help me pass the time. ",F,ND only,
+72,Health Expectancies,Smoking is taking years off my life.,Q,ALL/D/ND,X
+73,Health Expectancies,Smoking makes me worry about getting heart troubles.,Q,ALL/D/ND,X
+74,Health Expectancies,Smoking causes me to get tired easily.,Q,ALL/D/ND,X
+75,Health Expectancies,Smoking makes me short of breath.,Q,ALL/D/ND,X
+76,Health Expectancies,Smoking irritates my mouth and throat.,Q,ALL/D/ND,X
+77,Health Expectancies,I worry that smoking will lower my quality of life.,Q,ALL/D/ND,X
+78,Health Expectancies,Smoking makes me worry about getting emphysema.,Q,ALL/D/ND,
+79,Health Expectancies,Smoking makes my lungs hurt. ,Q,ALL/D/ND,
+80,Health Expectancies,Smoking causes damage to my gums and teeth.,Q,ALL/D/ND,
+81,Health Expectancies,It takes me longer to recover from a cold because I smoke.,Q,ALL/D/ND,
+82,Health Expectancies,If I quit smoking I will feel more energetic.,Q,ALL/D/ND,
+83,Health Expectancies,If I quit smoking I will breathe easier.,Q,ALL/D/ND,
+84,Health Expectancies,Smoking leaves an unpleasant taste in my mouth.,Q,D/ND,
+85,Health Expectancies,Smoking is hazardous to my health. ,Q,D only,
+86,Health Expectancies,Smoking makes me worry about getting cancer.,Q,D only,
+87,Health Expectancies,Smoking gives me a headache.,Q,D only,
+88,Health Expectancies,If I quit smoking I will live longer.,Q,D only,
+89,Health Expectancies,If I quit smoking I will get instant health benefits.,Q,D only,
+90,Health Expectancies,If I quit smoking I will be healthier. ,Q,D only,
+91,Health Expectancies,Smoking makes me worry about getting high blood pressure.,Q,ND only,
+92,Health Expectancies,Smoking makes me feel weaker physically. ,Q,ND only,
+93,Health Expectancies,Smoking makes it harder for me to exercise or play sports.,Q,ND only,
+94,Health Expectancies,Smoking gives me a morning cough.,Q,ND only,
+95,Health Expectancies,Smoking leaves a stain on my fingers.,Q,ND only,
+96,Psychosocial Expectancies,If I quit smoking I will be more in control of my life.,Q,ALL/D/ND,X
+97,Psychosocial Expectancies,If I quit smoking my friends will respect me more.,Q,ALL/D/ND,X
+98,Psychosocial Expectancies,My need for cigarettes makes me feel disappointed in myself.,Q,ALL/D/ND,X
+99,Psychosocial Expectancies,My smoking makes me feel less attractive.,Q,ALL/D/ND,X
+100,Psychosocial Expectancies,People think less of me if they see me smoking.,Q,ALL/D/ND,X
+101,Psychosocial Expectancies,My cigarette smoking bothers others.,Q,ALL/D/ND,X
+102,Psychosocial Expectancies,If I quit smoking I will be more attractive to others. ,Q,ALL/D/ND,
+103,Psychosocial Expectancies,I get upset when I think about my smoking.,Q,ALL/D/ND,
+104,Psychosocial Expectancies,My smoking makes me respect myself less.,Q,ALL/D/ND,
+105,Psychosocial Expectancies,I feel embarrassed when I smoke.,F,ALL/D/ND,
+106,Psychosocial Expectancies,I look ridiculous while smoking.,Q,ALL/D/ND,
+107,Psychosocial Expectancies,People I care about respect me less because I smoke.,Q,ALL/D/ND,
+108,Psychosocial Expectancies,People think I'm foolish for ignoring the warnings about cigarette smoking.,Q,ALL/D/ND,
+109,Psychosocial Expectancies,My smoking makes me less attractive to other people.,Q,ALL/D/ND,
+110,Psychosocial Expectancies,Smoking leaves an unpleasant odor on my clothes.,Q,D only,
+111,Psychosocial Expectancies,I'm foolish to ignore the warnings about cigarettes.,Q,D only,
+112,Psychosocial Expectancies,I smoke too much.,Q,D only,
+113,Psychosocial Expectancies,I hide my smoking from other people.,Q,D only,
+114,Psychosocial Expectancies,I feel uncomfortable smoking around kids.,Q,D only,
+115,Psychosocial Expectancies,Most of the people I care about want me to quit smoking.,Q,D only,
+116,Psychosocial Expectancies,People close to me disapprove of my smoking.,Q,ND only,
+117,Social Motivations,Smoking makes me feel better in social situations.,Q,ALL/D/ND,X
+118,Social Motivations,Smoking helps me feel more relaxed when I'm with other people.,Q,ALL/D/ND,X
+119,Social Motivations,I feel like part of a group when I'm around other smokers.,Q,ALL/D/ND,X
+120,Social Motivations,I enjoy the social aspect of smoking with other smokers.,Q,ALL/D/ND,X
+121,Social Motivations,If I quit smoking I will be less welcome around my friends who smoke.,Q,ALL/D/ND,
+122,Social Motivations,Smoking is a part of my self-image.,Q,ALL/D/ND,
+123,Social Motivations,I feel a bond with other smokers.,Q,ALL/D/ND,
+124,Social Motivations,Smoking gives me something to do with my hands.,Q,D/ND,
+125,Social Motivations,I am tempted to smoke when I am with other people who are smoking.,F,D/ND,
+126,Social Motivations,If I always smoke in a certain place it is hard to be there and not smoke.,Q,D only,
+127,Social Motivations,If I quit smoking I will feel uncomfortable around smokers.,Q,D only,
+128,Social Motivations,I am tempted to smoke when I see someone enjoying a cigarette.,F,D only,
+129,Social Motivations,Smoking makes me feel more self-confident with others.,Q,ND only,
+130,Social Motivations,Smoking helps me enjoy people more.,Q,ND only,
+131,Social Motivations,Smoking can be a good excuse to get out of uncomfortable social situations. ,Q,ND only,
